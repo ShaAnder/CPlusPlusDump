@@ -1,4 +1,4 @@
-## Welcome to the C++ D U M P
+## Welcome to the CPLUSPLUS D U M P
 
 This is as stated in the main linker fil the dump repo for all my C++ projects and code snippets. 
 I'll try and categorize these by type as I go so please see below for a quick nav bar to each of 
@@ -19,23 +19,23 @@ This is the ideas section, these are all projects or ideas I have started, but n
       <img loading="lazy" src="" height="300px">
   </details>
 
-[To start](#welcome-to-the-c++-d-u-m-p)
+[To start](#welcome-to-the-cplusplus-d-u-m-p)
 
 ## Course Projects
 
 This is the finished project section. Each of these are a project I finished for a course or just in general small projects that I chose to work on.
 
 
-[To start](#welcome-to-the-c++-d-u-m-p)
+[To start](#welcome-to-the-cplusplus-d-u-m-p)
 
 ## Applications
 
 Much like the finished course projects section, these are finished and working applications that I wanted to find a place for that are not nessecarily on my portfolio, older portfolio works are stored here too!
 
-[To start](#welcome-to-the-c++-d-u-m-p)
+[To start](#welcome-to-the-cplusplus-d-u-m-p)
 
 ## Snippets
 
 Finally we have the snippets section, this is where i keep all my single file code snippets i've worked on, I really like making small things that I can just reuse in other projects or a toolbox rather, and while some of these are stuff i use frequently, this is not all of them. I need some secrets after all 😉
 
-[To start](#welcome-to-the-c++-d-u-m-p)
+[To start](#welcome-to-the-cplusplus-d-u-m-p)
